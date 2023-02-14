@@ -22,5 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         H1 = findViewById(R.id.H1);
         W1 = findViewById(R.id.W1);
+
+
     }
 }
