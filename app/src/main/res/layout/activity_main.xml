@@ -13,6 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:gravity="center"
+        android:inputType="number"
         android:hint="Height" />
 
     <EditText
@@ -21,6 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:gravity="center"
+        android:inputType="number"
         android:hint="weight" />
 
     <Button
@@ -36,7 +38,6 @@
         android:id="@+id/T1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="BMI"
         android:textSize="20dp"
         android:gravity="center"
         android:layout_marginTop="20dp"/>
